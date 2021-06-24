@@ -26,6 +26,7 @@
         "semi": ["error", "never"],
         "arrow-spacing": ["warn", { "before": true, "after": true }],
         "arrow-parens": ["warn", "as-needed"],
-        "@typescript-eslint/explicit-module-boundary-types": "off"
+        "@typescript-eslint/explicit-module-boundary-types": "off",
+        "no-unused-vars":"error"
     }
 }
